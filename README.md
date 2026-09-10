@@ -40,7 +40,7 @@ OPNsense and Docker Swarm:
 | [`pegaprox-docker-manager`](https://github.com/alfonsokuen/pegaprox-docker-manager) | Manage Docker hosts and Swarm clusters over SSH |
 | [`pegaprox-plugin-proxmox-power`](https://github.com/alfonsokuen/pegaprox-plugin-proxmox-power) | Dependency-aware power control for VMs and containers |
 | [`pegaprox-plugin-opnsense`](https://github.com/alfonsokuen/pegaprox-plugin-opnsense) | Monitor and configure OPNsense firewalls, HA pairs included |
-| [`truenas-proxmox-plugin`](https://github.com/idkmanager/truenas-proxmox-plugin) | TrueNAS block storage in Proxmox VE, with CHAP over iSCSI |
+| [`truenas-proxmox-plugin`](https://github.com/idkmanager/truenas-proxmox-plugin) | Adaptation of [truenas/truenas-proxmox-plugin](https://github.com/truenas/truenas-proxmox-plugin) for TrueNAS block storage in Proxmox VE, with CHAP over iSCSI |
 
 ### IDK MANAGER platforms
 
