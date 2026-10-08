@@ -1,6 +1,6 @@
 # Alfonso Kuen Arroyo
 
-**Founder & Technology Architect at [IDK MANAGER](https://idkmanager.com) · Quito, Ecuador 🇪🇨**
+**Founder & Technology Architect at [IDKMANAGER](https://idkmanager.com) · Quito, Ecuador 🇪🇨**
 
 [![Website](https://img.shields.io/badge/idkmanager.com-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://idkmanager.com/equipo/alfonso-kuen-arroyo/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfonso-kuen-arroyo-5a7a92133)
